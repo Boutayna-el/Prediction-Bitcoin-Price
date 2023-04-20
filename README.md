@@ -1,1 +1,4 @@
 # Prediction-Bitcoin-Price
+Bitcoin is a decentralized digital currency that has gained significant popularity and attention since its creation in 2009. Since then, its value has experienced significant price volatility, with its price reaching an all-time high of over $64,000 in April 2021. This volatility, coupled with the increasing interest in Bitcoin as an investment asset, has led to a growing interest in predicting the future price of Bitcoin.
+
+Our goal is to provide a comprehensive analysis of the factors that influence Bitcoin's price and to develop accurate predictions of Bitcoin's future price trends. Through this project, we hope to contribute to the growing body of research on Bitcoin price prediction and provide insights into the potential future of this rapidly evolving digital asset.
